@@ -1,6 +1,6 @@
 # Chana Masala
 ## Notes
-- 6 servings (allegedly)
+- 2-3 servings
 - Serve with rice (basmati)
 
 ## Utensils
