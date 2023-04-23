@@ -3,14 +3,15 @@
 Recipe is for a pressure cooker, spices can be added before and after cooking
 
 ## Ingredients  
-3+ lb potatoes (half gold, half russet)
-1 bulb of garlic
-Salt
-Pepper
-Garlic powder (optional) 
-0.5 cups butter or alternative
-up to 2 cups of milk or alternative
-1 or more cups of stock (chicken, veg, etc.)
+- 3+ lb potatoes total (half gold, half russet)
+- 1 bulb of garlic
+- Salt
+- Pepper
+- Garlic powder (optional) 
+- 0.5 cups butter or alternative
+- 1 cup of milk or alternative
+- 1+ cups of stock (chicken, veg, etc.)
+
 ## Recipe
 1. Wash and sort (cut off bad sections or throw away bad potatoes) 
 1. Add 1 to 1.5 cups of chicken (or veg) stock to the pressure cooker
