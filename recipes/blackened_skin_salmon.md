@@ -33,9 +33,9 @@
 -Remeber it will carryover cook, as well
 
 ## Recommended sides
-[Mashed potatoes](recipes/mashed_potatoes.md)
-[Caramelized onions](recipes/carmelized_onions.md)
+[Mashed potatoes](recipes/mashed_potatoes.md) <br/>
+[Caramelized onions](recipes/carmelized_onions.md) <br/>
 
 ## Reference
-https://www.youtube.com/watch?v=hd2QgUMGi14
-https://www.youtube.com/watch?v=rR9wq5uN_q8
+https://www.youtube.com/watch?v=hd2QgUMGi14 <br/>
+https://www.youtube.com/watch?v=rR9wq5uN_q8 <br/>
