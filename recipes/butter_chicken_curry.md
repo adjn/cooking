@@ -45,7 +45,7 @@
 9. Reduce heat (low) and add coconut milk, stirring well. 
 10. Reuse coconut milk bowl and whisk. Add 1/2 cup cold water and 3 tbsp cornstarch. Mix very well. 
 11. Add 1 cup cold water to bowl. 
-12. Slowly add cornstarch/water mixture to pot while constantly stiring.
+12. Slowly add cornstarch/water mixture to pot while constantly stirring.
 13. Turn up heat (medium) if necessary until sauce is just barely bubbling. 
 14. Continue stirring for several minutes until sauce is no longer thickening. 
 15. Reduce heat to low until ready to serve. 
