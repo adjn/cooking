@@ -3,6 +3,8 @@ A collection of recipes and useful information
 
 ## Recipes
 + [Blackened skin salmon](recipes/blackened_skin_salmon.md)
++ [Butter chicken curry](recipes/butter_chicken_curry.md)
++ [Chana masala](recipes/chana_masala.md)
 + [Chicken noodle soup](recipes/chicken_noodle_soup.md)
 + [Chicken and barley](recipes/chicken_and_barley.md)
 + [Faux cottage pie](recipes/faux_cottage_pie.md)
