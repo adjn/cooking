@@ -6,15 +6,15 @@
 - Fish slice (spatula also works)
 - Stainless steel pan
 ## Ingredients  
-Salmon filet
-Cooking oil (e.g. extra-virgin olive oil)
-Salt
-Pepper
-Garlic powder
-Rosemary
-Sage?
-Thyme?
-Lemon juice?
+- Salmon filet
+- Cooking oil (e.g. extra-virgin olive oil)
+- Salt
+- Pepper
+- Garlic powder
+- Rosemary
+- Sage?
+- Thyme?
+- Lemon juice?
 
 ## Recipe
 1. From thawed, bring the fish to room temp and dry
