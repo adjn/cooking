@@ -21,7 +21,7 @@
 - ¼ cup cooking oil (peanut)
 - 2-3 tbsp crushed garlic (6-9 medium cloves)
 - 2-3 chicken breast, cut into smaller bite size pieces 
-- 1 tbsp paprika
+- 1 Tbsp paprika
 - 1 tsp turmeric
 - 1-1/2 tsp salt
 - 1 tsp ground cumin (or 1 tbsp if you are not using garam masala)
@@ -30,7 +30,7 @@
 - 1 tsp ground cayenne pepper (creates “medium-hot” spice level)
 - 1 small can tomato paste or ¾ cup crushed canned tomatoes
 - 1 can coconut milk (or 1-1/2 cups whipping cream)
-- (optional) 3 tbsp cornstarch
+- (optional) 3 Tbsp cornstarch
 - 1-1/2 cups water
 
 ## Directions
