@@ -10,7 +10,6 @@ Broadly inspired by Shepherd's pie, using beef alternative (it's "cottage pie" w
 - Firm spatula 
 - Casserole dish
 - Prep bowls (optional)
-- Cheese (optional)
 ### For [mashed potatoes](recipes/mashed_potatoes.md)
 - Instant Pot
 - Potato masher or immersion blender
@@ -23,6 +22,8 @@ Broadly inspired by Shepherd's pie, using beef alternative (it's "cottage pie" w
 - 1 14-16oz bag of frozen vegetables (minimum carrots and peas)
 - Salt
 - Pepper
+- Cheese (optional)
+
 ### For [mashed potatoes](recipes/mashed_potatoes.md)
 - 3+ lb potatoes total (half gold, half russet)
 - 1 bulb of garlic
