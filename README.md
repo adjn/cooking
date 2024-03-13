@@ -11,7 +11,8 @@ A collection of recipes and useful information that should be approachable to hu
 - Nylon/plastic spatula 
 - Vegetable peeler
 - Fish slice
-- Pasta ladle/slotted spoon
+- Pasta ladle
+- Slotted spoon
 
 ## Recipes
 + [Blackened skin salmon](recipes/blackened_skin_salmon.md)
