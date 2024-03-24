@@ -18,7 +18,6 @@ Partial bacon packages can be stored, wrapped, in the freezer
 - Cooking oil (e.g. extra-virgin olive oil)
 - Salt
 - Pepper
-- Garlic powder
 - Onion powder
 
 ## Recipe
