@@ -9,7 +9,8 @@
 - Tablespoon measuring spoon
 
 ## Ingredients  
-- 2 cups of water for 1 brick; 3 cups of water for 2 bricks, doubling the ingredients below as indicated 
+- 2 cups of water for 1 brick of ramen; 3 cups of water for 2 bricks, doubling the ingredients below as indicated
+
 For every 1 brick of uncooked ramen:
 - 2 Tbsp "natural style" peanut butter
 - 1 Tbsp soy sauce
