@@ -5,6 +5,7 @@ A collection of recipes and useful information that should be approachable to hu
 ### Pans, et al
 - Well seasons, cast iron pan
 - Good quality stainless steal pan
+- Medium saucepan 
 - Instant Pot
 
 ### Utensils  
@@ -16,6 +17,7 @@ A collection of recipes and useful information that should be approachable to hu
 
 ## Recipes
 + [Blackened skin salmon](recipes/blackened_skin_salmon.md)
++ [Brussels sprouts with onion and bacon](recipes/brussels_sprouts_with_onion_bacon.md)
 + [Butter chicken curry](recipes/butter_chicken_curry.md)
 + [Caramelized onions](recipes/carmelized_onions.md)
 + [Chana masala](recipes/chana_masala.md)
@@ -27,7 +29,7 @@ A collection of recipes and useful information that should be approachable to hu
 + [Pulled pork](recipes/pulled_pork.md)
 + [Sautéed Brussels Sprouts](recipes/sauteed_brussels_sprouts.md)
 + [Spicy kimchi chili crisp ramen](recipes/spicy_kimchi_chili_crisp_ramen.md)
-+ [Spicy Peanut butter ramen](recipes/spicy_peanut_butter_ramen.md)
++ [Spicy peanut butter ramen](recipes/spicy_peanut_butter_ramen.md)
 
 
 
