@@ -26,6 +26,7 @@ A collection of recipes and useful information that should be approachable to hu
 + [Mashed potatoes](recipes/mashed_potatoes.md)
 + [Pulled pork](recipes/pulled_pork.md)
 + [Sautéed Brussels Sprouts](recipes/sauteed_brussels_sprouts.md)
++ [Spicy kimchi chili crisp ramen](recipes/spicy_kimchi_chili_crisp_ramen.md)
 + [Spicy Peanut butter ramen](recipes/spicy_peanut_butter_ramen.md)
 
 
