@@ -37,12 +37,11 @@ Partial bacon packages can be stored, wrapped, in the freezer
 14. Add onions to bacon fat and cook until brown
 15. If using garlic, add for the last few minutes with the onions
 16. Reduce heat for the pan
-17. Add ~1/2 cup of white vinegar to the pan and deglaze 
+17. Add ~.25 cups of white vinegar to the pan and deglaze 
 18. Add salt, pepper, onion powder, optional garlic powder if you aren't adding chopped garlic, mix
-19. Add bacon to reheat and mix
-20. Remove sprouts 
-21. Add sprouts to bowl
-22. Add bacon and onion to a bowl, mix
+19. Remove sprouts from oven when done
+20. Add bacon to skillet  and mix
+
 
 Consider:
 - Too much vinegar taste? Add a small amount of sugar
