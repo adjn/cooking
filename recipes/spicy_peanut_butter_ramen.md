@@ -15,19 +15,20 @@ For every 1 brick of uncooked ramen:
 - 2 Tbsp "natural style" peanut butter
 - 1 Tbsp soy sauce
 - 1 Tbsp brown sugar
-- .5 Tbsp sriracha
-- Monosodium Glutamate (optional)
+- .5 Tbsp sriracha/chili crisp
+- Monosodium Glutamate (MSG)
 
 ## Recipe
-1. Add water to sauce pan
-2. Put sauce pan on a burner on Medium/High heat
+1. Add water and MSG, to taste, to sauce pan
+2. Put sauce pan on a burner on High heat
 3. In your mixing bowl add peanut butter, soy sauce, brown sugar and sriracha; mix until well combined, set aside
-4. Once the water is at a boil, reduce to Medium
+4. Once the water is at a boil, reduce to Medium, keeping the water boiling
 5. Add pasta to boiling water
-6. Cook pasta until nearly done; do not drain, reduce to Low
-7. Mix in the seasoning sauce into the noodles 
-8. If necessary, simmer on Low until desired consistency
-9. Sample and add additional MSG to taste
+6. Cook pasta until nearly done; drain to retain about a cup of water
+7. Turn heat to Low and return to stove
+8. Mix in the seasoning sauce into the noodles 
+9. If necessary, simmer on Low until desired consistency
+10. Sample and add additional MSG to taste
 
 
 ## Recipe Option
@@ -39,5 +40,5 @@ Consider additional toppings:
 - Lime wedge/lime juice
 - Chopped peanuts
 - Sesame seeds
-- Spinach
-- Carrots
+- Chopped spinach
+- Shaved carrots
