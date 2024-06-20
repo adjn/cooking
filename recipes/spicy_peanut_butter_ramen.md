@@ -9,14 +9,15 @@
 - Tablespoon measuring spoon
 
 ## Ingredients  
-- 2 cups of water for 1 brick of ramen; 3 cups of water for 2 bricks, doubling the ingredients below as indicated
+- 2 cups of water for 1 brick of ramen, +1 cup for a second brick (e.g. 3 cups of water for 2 bricks, doubling the ingredients below as indicated)
+- Monosodium Glutamate (MSG)
 
-For every 1 brick of uncooked ramen:
+### For every 1 brick of uncooked ramen:
 - 2 Tbsp "natural style" peanut butter
 - 1 Tbsp soy sauce
 - 1 Tbsp brown sugar
 - .5 Tbsp sriracha/chili crisp
-- Monosodium Glutamate (MSG)
+
 
 ## Recipe
 1. Add water and MSG, to taste, to sauce pan
