@@ -3,7 +3,7 @@
 - 2-3 servings
 
 ## Utensils
-- Rice cooker and stiring tool
+- Rice cooker and string tool
 - Cutting board
 - Chef knife
 - Prep dishes
@@ -26,10 +26,10 @@ Optional:
 - 1 stalk green onions, sliced thin
 - 2 teaspoon ginger, minced
 - 1/4 tsp turmeric
-- 1 Tbps sesame oil
+- 1 Tbsp sesame oil
 
 ## Directions
-1. Using your knife, crsh the garlic and remove the skin
+1. Using your knife, crush the garlic and remove the skin
 2. Mince the garlic
 3. Peel, then mince the ginger
 4. Trim the green onions of roots and any damage
@@ -46,7 +46,7 @@ Optional:
 15. Close rice cooker and start
 16. When finished, remove chicken and stir rice
 17. Slice chicken
-18. Optional: Heat neutral oil in sauce pan; when simmering, add sliced green onions and remaining ginger and cook for 20 seconds. Drizle on dish.
+18. Optional: Heat neutral oil in sauce pan; when simmering, add sliced green onions and remaining ginger and cook for 20 seconds. Drizzle on dish.
 
 Consider:
 
