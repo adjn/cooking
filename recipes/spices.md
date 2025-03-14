@@ -23,3 +23,6 @@ Smoky Applewood Spice Blend
 
 Italian Seasoning 
 - Basil, Rosemary, Marjoram, Oregano, Thyme
+
+Rosemary-Basil-Sage Blend
+Granulated Garlic, Italian Seasoning (Basil, Rosemary, Marjoram, Oregano, Thyme), Onion Power, Dried Basil, Ground Rosemary, Dried Sage
