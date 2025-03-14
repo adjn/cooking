@@ -31,5 +31,7 @@ A collection of recipes and useful information that should be approachable to hu
 + [Spicy kimchi chili crisp ramen](recipes/spicy_kimchi_chili_crisp_ramen.md)
 + [Spicy peanut butter ramen](recipes/spicy_peanut_butter_ramen.md)
 
++ [Sauces](recipes/sauces.md)
+
 
 
