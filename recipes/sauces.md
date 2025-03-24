@@ -24,6 +24,10 @@ Chipotle-Lime Aïoli
 - Avocado Oil Mayonnaise, Lime Juice, organic agave syrup, Ground Chipotle Pepper, Ancho Chili Powder, Sea Salt
 
 
+Paprika-Dijon Aïoli (
+- Mayonnaise, Dijon Mustard, Sweet Paprika, Smoked Paprika, Dried Thyme, Dried Basil, Dried Oregano, White Pepper, Granulated Garlic, Lemon Juice
+
+
 Parsley-Basil Pepita Pesto 
 - Lemon Juice, Parsley, Basil, Granulated Garlic, Coconut Milk, Sea Salt, Black Pepper, Dijon Mustard, Pepitas [pumpkin seeds], Red Wine Vinegar [aged red wine vinegar]
 
