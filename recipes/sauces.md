@@ -11,6 +11,10 @@ Creamy Chimichurri
 - Yellow Onions, Parsley, Garlic, Dried Oregano, Sea Salt, Black Pepper, Crushed Red Pepper Flakes, Apple Cider Vinegar, Lemon Juice, Olive Oil, Avocado Oil Mayonnaise
 
 
+Cilantro Cider Vinaigrette 
+- Cilantro, Apple Cider Vinegar, Garlic, Olive Oil, Stone-Ground Mustard, Sea Salt
+
+
 Za’atar Tahini Sauce 
 - Tahini Sauce [sesame seeds], Lemon Juice, Red Wine Vinegar [aged red wine vinegar], Olive Oil, Garlic, Za'atar Seasoning [hulled sesame seed, ground sumac, sea salt, thyme, summer savory, marjoram], Sea Salt,
 Water, Coconut Aminos [organic coconut tree sap, sea salt]
