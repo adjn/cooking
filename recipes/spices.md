@@ -21,8 +21,14 @@ Paprika & Orange Spice Blend
 Smoky Applewood Spice Blend 
 - Sweet Paprika, Applewood-Smoked Sea Salt, Granulated Garlic, Dried Mustard, Smoked Paprika, Black Pepper, Dried Thyme
 
+
 Italian Seasoning 
 - Basil, Rosemary, Marjoram, Oregano, Thyme
 
+
 Rosemary-Basil-Sage Blend
-Granulated Garlic, Italian Seasoning (Basil, Rosemary, Marjoram, Oregano, Thyme), Onion Power, Dried Basil, Ground Rosemary, Dried Sage
+- Granulated Garlic, Italian Seasoning (Basil, Rosemary, Marjoram, Oregano, Thyme), Onion Power, Dried Basil, Ground Rosemary, Dried Sage
+
+
+Tuscan Heat Spice
+- Dried basil, dried rosemary flaks, oregano, garlic power, cayenne pepper, ground fennel
