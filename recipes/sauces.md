@@ -24,7 +24,7 @@ Chipotle-Lime Aïoli
 - Avocado Oil Mayonnaise, Lime Juice, organic agave syrup, Ground Chipotle Pepper, Ancho Chili Powder, Sea Salt
 
 
-Paprika-Dijon Aïoli (
+Paprika-Dijon Aïoli
 - Mayonnaise, Dijon Mustard, Sweet Paprika, Smoked Paprika, Dried Thyme, Dried Basil, Dried Oregano, White Pepper, Granulated Garlic, Lemon Juice
 
 
