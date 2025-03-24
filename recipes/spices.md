@@ -29,9 +29,9 @@ Italian Seasoning
 Rosemary-Basil-Sage Blend
 - Granulated Garlic, Italian Seasoning (Basil, Rosemary, Marjoram, Oregano, Thyme), Onion Power, Dried Basil, Ground Rosemary, Dried Sage
 
-[Undocumented]
+**[Undocumented]**\
 Tuscan Heat Spice
 - Dried basil, dried rosemary flaks, oregano, garlic power, cayenne pepper, ground fennel
 
 Thai-style seasoning
-- 2.5 tsp white same seeds, 1 tsp chili flakes, 1 tsp ground coriander, 1 tsp onion powder, .5 tsp garlic powder, .5 tsp shimp extract power, .25 tsp cinamon, .125(1/8) tsp cayenne pepper 
+- 2.5 tsp white sesame seeds, 1 tsp chili flakes, 1 tsp ground coriander, 1 tsp onion powder, .5 tsp garlic powder, .5 tsp shimp extract power, .25 tsp cinamon, .125(1/8) tsp cayenne pepper 
