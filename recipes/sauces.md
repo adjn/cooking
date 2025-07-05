@@ -50,3 +50,7 @@ Lemon-Dijon Vinaigrette with Olive Oil
 
 Basil pistou 
 - Basil, Sunflower Seeds, hulled, Garlic, Yellow Onions, Puréed Ginger, high oleic sunflower oil, Lemon Juice, Rice Wine Vinegar [rice vinegar diluted with water to 4.3% acidity], Agave syrup, Sea Salt, Black Pepper
+
+
+Lemon-basil Caper Sauce
+- Avocado mayo, Basil, Lemon Juice, Capers, White Balsamic Vinegar, Agave Nectar
