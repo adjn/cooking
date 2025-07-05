@@ -27,7 +27,12 @@ Italian Seasoning
 
 
 Rosemary-Basil-Sage Blend
-- Granulated Garlic, Italian Seasoning (Basil, Rosemary, Marjoram, Oregano, Thyme), Onion Power, Dried Basil, Ground Rosemary, Dried Sage
+- Granulated Garlic, Italian Seasoning (Basil, Rosemary, Marjoram, Oregano, Thyme), Onion Powder, Dried Basil, Ground Rosemary, Dried Sage
+
+
+Medterranean Spice Blend
+- Oregano, Onion powder, Garlic Powder, Basil, Dill, Black Pepper, Salt
+
 
 **[Undocumented]**\
 Tuscan Heat Spice
