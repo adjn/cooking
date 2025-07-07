@@ -34,6 +34,10 @@ Medterranean Spice Blend
 - Oregano, Onion powder, Garlic Powder, Basil, Dill, Black Pepper, Salt
 
 
+Fry Seasoning
+- Paprika Powder, Onion Powder, Garlic Powder
+
+
 **[Undocumented]**\
 Tuscan Heat Spice
 - Dried basil, dried rosemary flaks, oregano, garlic power, cayenne pepper, ground fennel
