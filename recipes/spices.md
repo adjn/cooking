@@ -37,6 +37,10 @@ Medterranean Spice Blend
 Fry Seasoning
 - Paprika Powder, Onion Powder, Garlic Powder
 
+Fajita Spice Blend
+- Paprika, Onion, Garlic, Chili, Cumin, Oregano, Garlic Powder, Onion Powder, Salt, Chili Flakes with Seed
+
+
 
 **[Undocumented]**\
 Tuscan Heat Spice
