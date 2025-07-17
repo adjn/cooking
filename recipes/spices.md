@@ -43,4 +43,8 @@ Tuscan Heat Spice
 - Dried basil, dried rosemary flaks, oregano, garlic power, cayenne pepper, ground fennel
 
 Thai-style seasoning
-- 2.5 tsp white sesame seeds, 1 tsp chili flakes, 1 tsp ground coriander, 1 tsp onion powder, .5 tsp garlic powder, .5 tsp shimp extract power, .25 tsp cinamon, .125(1/8) tsp cayenne pepper 
+- 2.5 tsp white sesame seeds, 1 tsp chili flakes, 1 tsp ground coriander, 1 tsp onion powder, .5 tsp garlic powder, .5 tsp shimp extract power, .25 tsp cinamon, .125(1/8) tsp cayenne pepper
+
+Adobo Seasoning
+- Chili Powder (Cayenne, Paprika, Cumin, Sea Salt, Garlic, Oregano, Smoked Paprika, Chili Pepper), Onion Powder, Granulated Garlic, Ground Cumin, Ancho Chili Powder
+
