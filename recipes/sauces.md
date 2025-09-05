@@ -6,6 +6,8 @@ sunflower oil, Puréed Ginger, Red Onions, Toasted Sesame Oil, Granulated Garlic
 Ginger Turmeric Vinaigrette 
 - Olive Oil, Toasted Sesame Oil, Puréed Ginger, Garlic, White Wine Vinegar [aged white wine vinegar], Lemon Juice, Agave syrup, Turmeric, Sea Salt, Black Pepper
 
+Creole dijonnaise
+- Mayonnaise, dijon Mustard, Garlic, Apple Cider Vinegar, Sweet Paprika, Cumin, Celery Seeds
 
 Creamy Chimichurri 
 - Yellow Onions, Parsley, Garlic, Dried Oregano, Sea Salt, Black Pepper, Crushed Red Pepper Flakes, Apple Cider Vinegar, Lemon Juice, Olive Oil, Avocado Oil Mayonnaise

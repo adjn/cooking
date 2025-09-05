@@ -25,11 +25,13 @@ A collection of recipes and useful information that should be approachable to hu
 + [Chicken and barley](recipes/chicken_and_barley.md)
 + [Faux cottage pie](recipes/faux_cottage_pie.md)
 + [Hillbilly casserole](recipes/hillbilly_casserole.md)
++ [Hainaese inspired chicken](recipes/rice_cooker_hainaese.md)
 + [Mashed potatoes](recipes/mashed_potatoes.md)
 + [Pulled pork](recipes/pulled_pork.md)
 + [Sautéed Brussels Sprouts](recipes/sauteed_brussels_sprouts.md)
 + [Spicy kimchi chili crisp ramen](recipes/spicy_kimchi_chili_crisp_ramen.md)
 + [Spicy peanut butter ramen](recipes/spicy_peanut_butter_ramen.md)
++ [Thai peanut chicken](recipes/thai_peanut_chicken.md)
 
 
 + [Sauces](recipes/sauces.md)
