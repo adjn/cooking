@@ -1,6 +1,9 @@
 Blackening Spices 
 - Paprika, Dehydrated Onion, Spices (black pepper, white pepper, red pepper, thyme, oregano), Dehydrated Garlic, and Salt
 
+Cajun Spice Blend
+- Garlic, Smoked Paprika, Paprika, Oregano, Thyme, Basil, Onion, Cayenne, Pepper
+
 
 Cumin-Ancho Spice Blend 
 - Ground Cumin, Granulated Garlic, Ancho Chili Powder, Onion Powder, Dried Oregano
