@@ -10,10 +10,9 @@
 
 ## Ingredients  
 - 2 cups of water for 1 brick of ramen, +1 cup for a second brick (e.g. 3 cups of water for 2 bricks, doubling the ingredients below as indicated)
-- Monosodium Glutamate (MSG)
-
+- Monosodium Glutamate (MSG) and/or salt
 ### For every 1 brick of uncooked ramen:
-- 2 Tbsp "natural style" peanut butter
+- 2 Tbsp creamy peanut butter
 - 1 Tbsp soy sauce
 - 1 Tbsp brown sugar
 - .5 Tbsp sriracha/chili crisp
@@ -29,11 +28,13 @@
 7. Turn heat to Low and return to stove
 8. Mix in the seasoning sauce into the noodles 
 9. If necessary, simmer on Low until desired consistency
-10. Sample and add additional MSG to taste
+10. Sample and add additional MSG/salt or sriracha/chilis to taste
 
 
-## Recipe Option
+## Recipe Options
 Spice level is adjustable by increasing or reducing the amount of sriracha/chili sauce.
+
+Consider using stock (chicken/vegetable) instead of water
 
 Consider serving with cooked chicken or tofu.
 
